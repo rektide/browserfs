@@ -3,6 +3,7 @@ doc/*
 *.DS_Store
 *.log
 *.json
+*.swp
 vendor/*/
 test/fixtures
 test/harness/load_fixtures.js
